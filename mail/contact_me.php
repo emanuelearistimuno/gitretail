@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 require __DIR__ . '/vendor/autoload.php';
 
@@ -6,6 +7,8 @@ require __DIR__ . '/vendor/autoload.php';
 
 
 
+=======
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
@@ -23,7 +26,11 @@ $company = $_POST['company'];
 $message = $_POST['message'];
 	
 // Create the email and send the message
+<<<<<<< HEAD
 $to = 'emanueluader@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+=======
+$to = 'juan.ferreira@pathfinding.com.ar'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
 $email_subject = "Website Contact Form:  $name";
 $email_body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\nEmail: $email_address\n\company: $company\n\nMessage:\n$message";
 $headers = "From: noreply@yourdomain.com\n"; // This is the email address the generated message will be from. We recommend using something like noreply@yourdomain.com.

@@ -279,6 +279,7 @@ header {
     -o-background-size: cover;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -286,6 +287,12 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url(../img/nombredeimagen.jpg);
+=======
+.container2 {
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../img/container2.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -316,6 +323,7 @@ header {
     -o-background-size: cover;
 }
 
+<<<<<<< HEAD
 .container5 {
     color: #fff;
     background-attachment: scroll;
@@ -368,6 +376,8 @@ header {
 
 
 
+=======
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;

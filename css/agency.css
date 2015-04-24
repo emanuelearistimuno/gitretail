@@ -279,6 +279,7 @@ header {
     -o-background-size: cover;
 }
 
+<<<<<<< HEAD
 
 
 
@@ -286,6 +287,12 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url(../es/img/nombredeimagen.jpg);
+=======
+.container2 {
+    color: #fff;
+    background-attachment: scroll;
+    background-image: url(../img/nombredeimagen.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -296,7 +303,11 @@ header {
 .container3 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container2.jpg);
+=======
+    background-image: url(../img/notienefoto.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -307,7 +318,11 @@ header {
 .container4 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container4.jpg);
+=======
+    background-image: url(../img/container4.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -319,7 +334,11 @@ header {
 .container5 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container9.jpg);
+=======
+    background-image: url(../img/nohayimagen.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -331,7 +350,11 @@ header {
 .container6 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container2.jpg);
+=======
+    background-image: url(../img/nohayimagen.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -343,7 +366,11 @@ header {
 .container7 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container2.jpg);
+=======
+    background-image: url(../img/container2.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -355,7 +382,11 @@ header {
 .container8 {
     color: #fff;
     background-attachment: scroll;
+<<<<<<< HEAD
     background-image: url(../es/img/container9.jpg);
+=======
+    background-image: url(../img/container2.jpg);
+>>>>>>> cc2fd9a38ee243e94f60f5db324ef952633b7848
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
